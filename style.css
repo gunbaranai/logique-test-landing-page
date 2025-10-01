@@ -634,13 +634,19 @@ nav {
 .service-icon {
     width: 56px;
     height: 56px;
-    background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+    background: linear-gradient(135deg, rgba(112,111,229,0.18), rgba(112,111,229,0.08));
     border-radius: 14px;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
-    font-size: 26px;
+    color: #706FE5;
+}
+
+.service-icon img,
+.service-icon svg {
+    width: 28px;
+    height: 28px;
 }
 
 .service-card h3 {

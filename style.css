@@ -326,7 +326,7 @@ nav {
 .trusted-by {
     padding: 70px 0;
     text-align: center;
-    background: linear-gradient(90deg, #706FE5 2%, #ffffff 0%);
+    background: rgba(112, 111, 229, 0.02);
 }
 
 .trusted-by h3 {
@@ -477,7 +477,7 @@ nav {
 /* Testimonials */
 .testimonials {
     padding: 100px 0;
-    background: linear-gradient(90deg, #706FE5 2%, #ffffff 0%);
+    background: rgba(112, 111, 229, 0.02);
     position: relative;
 }
 

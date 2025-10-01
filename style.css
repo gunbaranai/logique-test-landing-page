@@ -43,6 +43,8 @@ nav {
     display: flex;
     gap: 45px;
     list-style: none;
+    position: absolute;
+    justify-self: anchor-center;
 }
 
 .nav-links a {
@@ -60,7 +62,7 @@ nav {
 /* Hero Section */
 .hero {
     padding: 140px 0 80px;
-    background: #fafaff;
+    background: #ffffff;
     position: relative;
     overflow: visible;
 }
@@ -324,7 +326,7 @@ nav {
 .trusted-by {
     padding: 70px 0;
     text-align: center;
-    background: white;
+    background: #706FE5 2%;
 }
 
 .trusted-by h3 {
@@ -357,7 +359,7 @@ nav {
 /* Products Section */
 .products {
     padding: 100px 0;
-    background: #fafaff;
+    background: #ffffff;
 }
 
 .section-header {
@@ -475,7 +477,7 @@ nav {
 /* Testimonials */
 .testimonials {
     padding: 100px 0;
-    background: white;
+    background: #706FE5 2%;
     position: relative;
 }
 
@@ -560,7 +562,7 @@ nav {
 /* Services Section */
 .services {
     padding: 100px 0;
-    background: #fafaff;
+    background: #ffffff;
 }
 
 .services-container {
